@@ -18,8 +18,9 @@ Sebelum menjalankan proyek, pastikan sudah menginstal:
 ---
 ## Quick Installation
 Please clone this project with the following command:
+```
 git clone <https://github.com/Meidhike/UjianMinggu4.git>
-
+```
 Running test with the following command:
 `mvn clean test`
 
@@ -28,15 +29,17 @@ Test with Another Suite
 
 ## Menjalankan Appium Server
 1. Buka terminal cmd dan jalankan:
-`appium`
-
+```
+appium
+```
 Server default berjalan di http://127.0.0.1:4723.
 
 
 2. Pastikan device/emulator sudah aktif dan terdeteksi:
 Buka terminal cmd dan jalankan:
-`adb devices`
-
+```
+adb devices
+```
 ---
 
 
