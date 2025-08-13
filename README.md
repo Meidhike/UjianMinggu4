@@ -35,7 +35,7 @@ appium
 Server default berjalan di http://127.0.0.1:4723.
 
 
-2. Pastikan device/emulator sudah aktif dan terdeteksi:
+2. Pastikan device/emulator sudah aktif dan terdeteksi.
 Buka terminal cmd dan jalankan:
 ```
 adb devices
