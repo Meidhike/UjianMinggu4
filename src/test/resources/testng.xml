@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Google SDET Suite">
+
+    <test name="pinch out Test">
+        <classes>
+            <class name="com.juaracoding.ecom.AppTest"></class>
+        </classes>
+    </test>
+</suite>
