@@ -42,6 +42,10 @@ adb devices
 ```
 ---
 
+Catatan
+
+deviceName di `DriverUtil.java  Line#18` harus diganti sesuai device ID yang terdeteksi (adb devices).
+---
 
 Author
 [Meidhike](https://github.com/Meidhike)
