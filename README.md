@@ -1,6 +1,6 @@
 # Appium Mobile Automation (Zoom In & Out Test)
 
-##  Deskripsi
+##  OVerview
 Proyek ini adalah contoh implementasi **Appium + Java + TestNG** untuk menguji fitur **zoom in & zoom out menggunakan W3C Actions API** pada gambar produk di aplikasi **Swag Labs Mobile**.
 
 ---
@@ -8,12 +8,12 @@ Proyek ini adalah contoh implementasi **Appium + Java + TestNG** untuk menguji f
 ## ⚙️ Persyaratan
 Sebelum menjalankan proyek, pastikan sudah menginstal:
 1. **Java JDK 17+**
-2. **Maven 3.9.0** 
+2. **Maven 3.9.0+** 
 3. **Appium Server** (`npm install -g appium`)
 4. **Appium Inspector**
-5. IDE (Intellij IDEA) atau VSCODE
-6. Android Studio (untuk Emulator) 
-7. Aktifkan USB Debugging di HP 
+5. **IDE (Intellij IDEA) atau VSCODE**
+6. **Android Studio (untuk Emulator)**
+7. **Aktifkan USB Debugging di HP**
 
 ---
 ## Quick Installation
