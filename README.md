@@ -48,4 +48,4 @@ deviceName di `DriverUtil.java  Line#18` harus diganti sesuai device ID yang ter
 
 
 ## Author
-[Meidhike](https://github.com/Meidhike)
+[Moch Meidhike Wirazitanra Jayadi](https://github.com/Meidhike)
