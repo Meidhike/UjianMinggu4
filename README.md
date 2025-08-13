@@ -34,10 +34,10 @@ Server default berjalan di http://127.0.0.1:4723.
 
 
 Pastikan device/emulator sudah aktif dan terdeteksi:
+Buka terminal cmd dan jalankan:
 `adb devices`
-
-
+---
 
 
 Author
-Moch Meidhike Wirazitanra Jayadi
+[Meidhike](https://github.com/Meidhike/UjianMinggu4#)
