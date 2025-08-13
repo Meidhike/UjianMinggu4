@@ -1,6 +1,6 @@
 # Appium Mobile Automation (Zoom In & Out Test)
 
-##  OVerview
+##  Overview
 Proyek ini adalah contoh implementasi **Appium + Java + TestNG** untuk menguji fitur **zoom in & zoom out menggunakan W3C Actions API** pada gambar produk di aplikasi **Swag Labs Mobile**.
 
 ---
